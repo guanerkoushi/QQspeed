@@ -1,0 +1,2 @@
+# QQspeed
+for training
